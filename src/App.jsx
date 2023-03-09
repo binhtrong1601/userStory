@@ -1,5 +1,5 @@
 import "./App.css";
-import Quotes from "./components/Quotes";
+import { Quotes } from "./components";
 
 function App() {
   return (
